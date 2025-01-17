@@ -1,7 +1,7 @@
 		.head1 {
-			font-size:60px;
+			font-size:30px;
             text-align: center;
-			color:#009900;
+			color:#c39c0f;
 			font-weight:bold;
 		}
 		.head2 {
@@ -51,5 +51,12 @@
 			font-weight:bold;
 		}
 		.body_sec {
+			text-align: center;
 			margin-left:20px;
+		}
+
+		.random_number {
+			font-size:30px;
+            text-align: center;
+			color:#37be5b;
 		}
